@@ -1,0 +1,181 @@
+https://ctsevent.cfapps.io/userInfo?id=102534&name=Bar,Arnab
+https://ctsevent.cfapps.io/userInfo?id=102664&name=De,Subhabrata
+https://ctsevent.cfapps.io/userInfo?id=108071&name=Roy,Amitabha
+https://ctsevent.cfapps.io/userInfo?id=108198&name=Chakraborty,Somdatta
+https://ctsevent.cfapps.io/userInfo?id=108608&name=Biswas,Saroj
+https://ctsevent.cfapps.io/userInfo?id=111920&name=Aich,Santanu
+https://ctsevent.cfapps.io/userInfo?id=113813&name=Dey,Subhankar
+https://ctsevent.cfapps.io/userInfo?id=118213&name=Biswas,Anupam
+https://ctsevent.cfapps.io/userInfo?id=122201&name=Chattopadhyay,Somnath
+https://ctsevent.cfapps.io/userInfo?id=131317&name=Behera,Sujit
+https://ctsevent.cfapps.io/userInfo?id=143846&name=Mohanty,Samarendra Kumar
+https://ctsevent.cfapps.io/userInfo?id=148795&name=Ghosh,Nirmalya
+https://ctsevent.cfapps.io/userInfo?id=164578&name=Sen,Ananda
+https://ctsevent.cfapps.io/userInfo?id=165587&name=Bhattacharya,Prasenjit
+https://ctsevent.cfapps.io/userInfo?id=168889&name=Dev,Shivaji
+https://ctsevent.cfapps.io/userInfo?id=172237&name=Ghoshal,Sourav
+https://ctsevent.cfapps.io/userInfo?id=180370&name=Dutta,Uma
+https://ctsevent.cfapps.io/userInfo?id=194387&name=Agarwalla,Manish
+https://ctsevent.cfapps.io/userInfo?id=198226&name=Bagchi,Debarghya
+https://ctsevent.cfapps.io/userInfo?id=209569&name=Bhadra,Arpita
+https://ctsevent.cfapps.io/userInfo?id=212021&name=Panigrahi,Saroj
+https://ctsevent.cfapps.io/userInfo?id=213513&name=Chakraborty,Soumya Kanti
+https://ctsevent.cfapps.io/userInfo?id=222263&name=Basu,Siladitya
+https://ctsevent.cfapps.io/userInfo?id=229363&name=Bhattacharya,Maharaja
+https://ctsevent.cfapps.io/userInfo?id=230706&name=Sadhukhan,Joydeep
+https://ctsevent.cfapps.io/userInfo?id=231612&name=Chatterjee,Abir
+https://ctsevent.cfapps.io/userInfo?id=234175&name=Guha,Ahin
+https://ctsevent.cfapps.io/userInfo?id=235747&name=Chatterjee,Arindam
+https://ctsevent.cfapps.io/userInfo?id=236722&name=Kapoor,Shweta
+https://ctsevent.cfapps.io/userInfo?id=246820&name=Mukherjee,Soumitra
+https://ctsevent.cfapps.io/userInfo?id=252700&name=Mukherjee,Paramita
+https://ctsevent.cfapps.io/userInfo?id=262968&name=Samanta,Biplab
+https://ctsevent.cfapps.io/userInfo?id=263032&name=Ghosh,Niladri Sekhar
+https://ctsevent.cfapps.io/userInfo?id=271956&name=Sundar Dey,Sambit
+https://ctsevent.cfapps.io/userInfo?id=280451&name=Nag,Sobbosanchi
+https://ctsevent.cfapps.io/userInfo?id=281380&name=Mehta,Vinaya
+https://ctsevent.cfapps.io/userInfo?id=298656&name=Ghosh,Partha
+https://ctsevent.cfapps.io/userInfo?id=303618&name=Ghosh,Arup
+https://ctsevent.cfapps.io/userInfo?id=303670&name=Sarkar,Deb Sarathi
+https://ctsevent.cfapps.io/userInfo?id=303960&name=Raha,Deborshi
+https://ctsevent.cfapps.io/userInfo?id=308535&name=Sarkar,Sabyasachi
+https://ctsevent.cfapps.io/userInfo?id=308928&name=Dhar,Swarup Kumar
+https://ctsevent.cfapps.io/userInfo?id=313745&name=Halder,Poulomi
+https://ctsevent.cfapps.io/userInfo?id=318957&name=Yadav,Umesh Kumar
+https://ctsevent.cfapps.io/userInfo?id=320016&name=Kundu,Arindam
+https://ctsevent.cfapps.io/userInfo?id=320023&name=Panja,Sanjoy
+https://ctsevent.cfapps.io/userInfo?id=320167&name=Ruia,Ankita
+https://ctsevent.cfapps.io/userInfo?id=322658&name=Chakraborty,Aniruddha
+https://ctsevent.cfapps.io/userInfo?id=323529&name=Bose,Biswadeep
+https://ctsevent.cfapps.io/userInfo?id=325411&name=Dutta,Abhishek
+https://ctsevent.cfapps.io/userInfo?id=330745&name=Kumar Sinha,Vijay
+https://ctsevent.cfapps.io/userInfo?id=330753&name=Sachdeva,Rachit
+https://ctsevent.cfapps.io/userInfo?id=332825&name=Datta Roy,Sarbajit
+https://ctsevent.cfapps.io/userInfo?id=342810&name=Shanmugampillai,Shanu
+https://ctsevent.cfapps.io/userInfo?id=343198&name=Biswas,Priyajit
+https://ctsevent.cfapps.io/userInfo?id=349487&name=Sarkar,Avik
+https://ctsevent.cfapps.io/userInfo?id=350916&name=Samanta,Animesh
+https://ctsevent.cfapps.io/userInfo?id=354963&name=Basu,Ashruto
+https://ctsevent.cfapps.io/userInfo?id=363470&name=Das,Samiran
+https://ctsevent.cfapps.io/userInfo?id=370829&name=Ghosh,Tanmoy
+https://ctsevent.cfapps.io/userInfo?id=373024&name=Saha,Manas
+https://ctsevent.cfapps.io/userInfo?id=376989&name=Sahu,Surendra
+https://ctsevent.cfapps.io/userInfo?id=377029&name=Nandi,Subhadip
+https://ctsevent.cfapps.io/userInfo?id=377546&name=Bhattacharya,Saugata
+https://ctsevent.cfapps.io/userInfo?id=379158&name=More Chakraborty,Laxmi
+https://ctsevent.cfapps.io/userInfo?id=389848&name=Banerjee,Poulami
+https://ctsevent.cfapps.io/userInfo?id=396556&name=Narayan Panda,Subhra
+https://ctsevent.cfapps.io/userInfo?id=404112&name=Sharma,Ankit
+https://ctsevent.cfapps.io/userInfo?id=406482&name=Sasmal,Bappaditya
+https://ctsevent.cfapps.io/userInfo?id=406488&name=Mukherjee,Soumyasree
+https://ctsevent.cfapps.io/userInfo?id=407610&name=Mallick,Diptiman
+https://ctsevent.cfapps.io/userInfo?id=415747&name=Kaur,Gurwinder
+https://ctsevent.cfapps.io/userInfo?id=417810&name=Sutar,Arnab
+https://ctsevent.cfapps.io/userInfo?id=419742&name=Ray,Gourab
+https://ctsevent.cfapps.io/userInfo?id=423748&name=Jha,Shilpa
+https://ctsevent.cfapps.io/userInfo?id=423923&name=Tiwari,Piyush
+https://ctsevent.cfapps.io/userInfo?id=430421&name=Kumar,Vijay
+https://ctsevent.cfapps.io/userInfo?id=430467&name=Kumar,Avinash
+https://ctsevent.cfapps.io/userInfo?id=430527&name=Kumar,Bikash
+https://ctsevent.cfapps.io/userInfo?id=433414&name=Banerjee,Amitava
+https://ctsevent.cfapps.io/userInfo?id=435514&name=Bhattacharya,Indrajit
+https://ctsevent.cfapps.io/userInfo?id=438168&name=Dutta Roy,Soumya
+https://ctsevent.cfapps.io/userInfo?id=440044&name=Sarkar,Ankita
+https://ctsevent.cfapps.io/userInfo?id=442286&name=Kar,Debojyoti
+https://ctsevent.cfapps.io/userInfo?id=447140&name=Paul,Saurav
+https://ctsevent.cfapps.io/userInfo?id=457738&name=Naha,Anirban
+https://ctsevent.cfapps.io/userInfo?id=460108&name=Ghosh,Arabinda
+https://ctsevent.cfapps.io/userInfo?id=471595&name=A,Chetna
+https://ctsevent.cfapps.io/userInfo?id=477356&name=Sharma,Aman
+https://ctsevent.cfapps.io/userInfo?id=489018&name=Kuila,Amit
+https://ctsevent.cfapps.io/userInfo?id=492660&name=Pattanaik,Arpita
+https://ctsevent.cfapps.io/userInfo?id=494742&name=Srivastava,Nivedita
+https://ctsevent.cfapps.io/userInfo?id=494965&name=Adhikary,Sudipta
+https://ctsevent.cfapps.io/userInfo?id=510202&name=Ojha,Pushpam
+https://ctsevent.cfapps.io/userInfo?id=515926&name=Kumar,Manish
+https://ctsevent.cfapps.io/userInfo?id=516962&name=Kumar,Raushan
+https://ctsevent.cfapps.io/userInfo?id=517742&name=Chakraborty,Amit
+https://ctsevent.cfapps.io/userInfo?id=517749&name=Sarkhel,Hirak
+https://ctsevent.cfapps.io/userInfo?id=524369&name=Dutta,Sagnik
+https://ctsevent.cfapps.io/userInfo?id=527366&name=Bhattacharjee,Ayan
+https://ctsevent.cfapps.io/userInfo?id=529080&name=Baral,Partha Pratim
+https://ctsevent.cfapps.io/userInfo?id=529514&name=Banerjee,Chaandan
+https://ctsevent.cfapps.io/userInfo?id=531357&name=Biswal,Sakti
+https://ctsevent.cfapps.io/userInfo?id=532529&name=Banerjee,Satrajit
+https://ctsevent.cfapps.io/userInfo?id=533379&name=Chaturvedi,Abhishek
+https://ctsevent.cfapps.io/userInfo?id=540623&name=Dafadar,Arnab
+https://ctsevent.cfapps.io/userInfo?id=543184&name=Naskar,Sourav
+https://ctsevent.cfapps.io/userInfo?id=543748&name=Saha,Souvik
+https://ctsevent.cfapps.io/userInfo?id=545040&name=Chattopadhyay,Saptarshi
+https://ctsevent.cfapps.io/userInfo?id=554381&name=Sarkar,Atanu
+https://ctsevent.cfapps.io/userInfo?id=555094&name=Acharya,Ipsita
+https://ctsevent.cfapps.io/userInfo?id=561554&name=Roy Chowdhury,Tirtha
+https://ctsevent.cfapps.io/userInfo?id=561557&name=Dey,Ramlal
+https://ctsevent.cfapps.io/userInfo?id=561783&name=Sinha,Subham
+https://ctsevent.cfapps.io/userInfo?id=566639&name=Banerjee,Sonia
+https://ctsevent.cfapps.io/userInfo?id=566916&name=Biswas,Sajal
+https://ctsevent.cfapps.io/userInfo?id=572863&name=Dewan,Mayank
+https://ctsevent.cfapps.io/userInfo?id=572972&name=Rajesh,Jalumuri
+https://ctsevent.cfapps.io/userInfo?id=578165&name=Chaturvedi,Utkarsh
+https://ctsevent.cfapps.io/userInfo?id=578174&name=Veer,Surya
+https://ctsevent.cfapps.io/userInfo?id=578182&name=Rawat,Abhishek
+https://ctsevent.cfapps.io/userInfo?id=578193&name=Dhawan,Ishaan
+https://ctsevent.cfapps.io/userInfo?id=578217&name=Mandal,Apratim
+https://ctsevent.cfapps.io/userInfo?id=578284&name=Rai,Aniket
+https://ctsevent.cfapps.io/userInfo?id=578299&name=Shah,Abhishek
+https://ctsevent.cfapps.io/userInfo?id=580590&name=Choudhary,Vikash
+https://ctsevent.cfapps.io/userInfo?id=582127&name=Das,Tamoghna
+https://ctsevent.cfapps.io/userInfo?id=582959&name=Saha,Prasenjit
+https://ctsevent.cfapps.io/userInfo?id=583076&name=Chatterjee,Soumya Prasad
+https://ctsevent.cfapps.io/userInfo?id=586205&name=Deb,Kaushik
+https://ctsevent.cfapps.io/userInfo?id=586208&name=Pal,Subham
+https://ctsevent.cfapps.io/userInfo?id=586240&name=Gupta,Nikhil
+https://ctsevent.cfapps.io/userInfo?id=586279&name=Roy,Nilesh
+https://ctsevent.cfapps.io/userInfo?id=586285&name=Biswas,Purba
+https://ctsevent.cfapps.io/userInfo?id=586531&name=Samanta,Saikat
+https://ctsevent.cfapps.io/userInfo?id=586535&name=Banerjee,Debasis
+https://ctsevent.cfapps.io/userInfo?id=587565&name=Halder,Saurov
+https://ctsevent.cfapps.io/userInfo?id=588540&name=Chakraborty,Ajoy
+https://ctsevent.cfapps.io/userInfo?id=589239&name=Vivek,Kumar
+https://ctsevent.cfapps.io/userInfo?id=591598&name=Acharya,Aishik
+https://ctsevent.cfapps.io/userInfo?id=591640&name=Pande,Vaswar
+https://ctsevent.cfapps.io/userInfo?id=596905&name=Dhar,Rajarshi
+https://ctsevent.cfapps.io/userInfo?id=597216&name=Ghosh,Sayantani
+https://ctsevent.cfapps.io/userInfo?id=598277&name=Roy,Sudeshna
+https://ctsevent.cfapps.io/userInfo?id=599368&name=Bala,Poulami
+https://ctsevent.cfapps.io/userInfo?id=599539&name=Bhattacharjee,Joyashree
+https://ctsevent.cfapps.io/userInfo?id=599708&name=Das,Swasti
+https://ctsevent.cfapps.io/userInfo?id=599765&name=Liyakat,Karishma
+https://ctsevent.cfapps.io/userInfo?id=601843&name=Ghosh,Rupam
+https://ctsevent.cfapps.io/userInfo?id=604066&name=Mohapatra,Suryaprasad
+https://ctsevent.cfapps.io/userInfo?id=605525&name=Pradhan,Anuva
+https://ctsevent.cfapps.io/userInfo?id=605533&name=Majumder,Susham
+https://ctsevent.cfapps.io/userInfo?id=605557&name=Biswas,Shomi
+https://ctsevent.cfapps.io/userInfo?id=610441&name=Ganguly,Parna
+https://ctsevent.cfapps.io/userInfo?id=613753&name=Gorain,Bibek
+https://ctsevent.cfapps.io/userInfo?id=613787&name=Banerjee,Abhiroop
+https://ctsevent.cfapps.io/userInfo?id=614273&name=Kumar,Abdhesh
+https://ctsevent.cfapps.io/userInfo?id=621872&name=Barai,Tuhin
+https://ctsevent.cfapps.io/userInfo?id=663702&name=Maiti ,Diptendu
+https://ctsevent.cfapps.io/userInfo?id=135740&name=Chakravarty, Chiranjib
+https://ctsevent.cfapps.io/userInfo?id=133879&name=Sarkar,Rajat 
+https://ctsevent.cfapps.io/userInfo?id=104957&name=Goswami,Debapriya
+https://ctsevent.cfapps.io/userInfo?id=156387&name=Ganguly,Sandip
+https://ctsevent.cfapps.io/userInfo?id=108217&name=Ghosh,Poulomi
+https://ctsevent.cfapps.io/userInfo?id=207108&name=Paira,Nabarun
+https://ctsevent.cfapps.io/userInfo?id=125651&name=Pachal,Rajib
+https://ctsevent.cfapps.io/userInfo?id=484169&name=Chanda,Nilanjan
+https://ctsevent.cfapps.io/userInfo?id=173702&name=Shome, Dipen
+https://ctsevent.cfapps.io/userInfo?id=109368&name=Sarkar,Supriyo
+https://ctsevent.cfapps.io/userInfo?id=136323&name=Bhowmik, Raja
+https://ctsevent.cfapps.io/userInfo?id=106716&name=Banerjee ,Saurav
+https://ctsevent.cfapps.io/userInfo?id=137257&name=Ghosh,Ranajoy
+https://ctsevent.cfapps.io/userInfo?id=601158&name=Das,Rabindra
+https://ctsevent.cfapps.io/userInfo?id=436123&name=Halim, Hasim Abdul
+https://ctsevent.cfapps.io/userInfo?id=549027&name=LNU, Priyesh
+https://ctsevent.cfapps.io/userInfo?id=549069&name=Sharma, Pushpendra 
+https://ctsevent.cfapps.io/userInfo?id=549085&name=LNU, Anupriya
+https://ctsevent.cfapps.io/userInfo?id=574643&name=Singh, Vinod
+https://ctsevent.cfapps.io/userInfo?id=604719&name=Sahoo, Shantanu 
+https://ctsevent.cfapps.io/userInfo?id=660678&name=Chatterjee, Aritra
+https://ctsevent.cfapps.io/userInfo?id=660392&name=Roy, Sourav
